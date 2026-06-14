@@ -11,6 +11,19 @@
 
 ---
 
+## 📸 Screenshots
+
+### Market Place Example
+![VidSense Main Interface](https://lh3.googleusercontent.com/ppuuQL8btq9x4Epma104V8uW-PoVlyqoYANcFPm_NINhQUiTZ0R4IwOoquJMnWicAoFT3eLNZvDhfNkOhig83YD7BQ=s1280-w1280-h800)
+
+### Travel Recommendations Example
+![Video Recommendations](https://lh3.googleusercontent.com/v4a-o2zZd3zzPsfiQPn05Xm0mg6epXjCMmjUrScpz9k4uG21FjBWUpWB86qimWwdJuihqtH72_jlFn2ZUlRFjz1P378=s1280-w1280-h800)
+
+### Education Site Example
+![Filter Options](https://lh3.googleusercontent.com/0Z1P0GkqXmJfHu2UDqZRnFHBY7jSCSL_OBT4weUDVlOrXiB3oLPYQsyawjJ8Jf5CJbR6G1cy4OWoZ_ReXnU42_7FPw=s1280-w1280-h800)
+
+---
+
 ## ✨ Features
 
 * 🛍️ **On Market Places** → shows product reviews & unboxings
